@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/ShopX.Api/ShopX.Api.csproj" />
+    <Project Path="src/ShopX.Core/ShopX.Core.csproj" />
+    <Project Path="src/ShopX.Infrastructure/ShopX.Infrastructure.csproj" />
+  </Folder>
+</Solution>
